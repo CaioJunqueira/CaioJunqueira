@@ -1,7 +1,7 @@
 - 👋 Olá, eu sou Caio Junqueira
 
 - Desenvolvedor Front-End
-- Desginer UI/UX
+- Designer UI/UX
 - Graduando em Engenharia de Computação | UTFPR
 
 - <div>
